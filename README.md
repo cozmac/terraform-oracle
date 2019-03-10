@@ -1,5 +1,5 @@
-#Terraform test using Oracle Cloud Infrastructure
+# Terraform test using Oracle Cloud Infrastructure
 
-##Architecture
+## Architecture
 
 ![Terracle](images/implemented.png)
